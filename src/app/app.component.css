@@ -1,0 +1,17 @@
+.form-control.ng-touched.ng-invalid {
+    border : 2px solid red;
+}
+
+.form-control.ng-touched.ng-valid{
+    border: 2px solid green;
+}
+
+.bg-color{
+    background-image: linear-gradient(to right top, #cc599b, #c26ab3, #b57ac6, #a689d5, #9797e0, #8f9be5, #86a0e9, #7da4ec, #76a1f0, #6f9ef4, #679bf7, #5f98fb);
+}
+
+
+
+
+
+
